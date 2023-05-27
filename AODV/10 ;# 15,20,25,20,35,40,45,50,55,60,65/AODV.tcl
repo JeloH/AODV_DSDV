@@ -1,5 +1,6 @@
 # wrls1.tcl
 # A 3-node example for ad-hoc simulation with DSDV
+# H. Jelodar
 
 # Define options
 set val(chan)           Channel/WirelessChannel    ;# channel type
